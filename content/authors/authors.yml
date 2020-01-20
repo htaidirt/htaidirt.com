@@ -1,24 +1,9 @@
-- name: Dennis Brotzky
+- name: Hassen Taidirt
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    Software engineer, freelancer, machine learning enthusiast and busy father.
+  avatar: ./avatars/hassen-taidirt.jpg
   social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
+    - url: https://github.com/htaidirt
+    - url: https://twitter.com/htaidirt
+    - url: https://linkedin.com/in/htaidirt
   featured: true
-
-- name: Thiago Costa
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/thiago-costa.png
-  social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
